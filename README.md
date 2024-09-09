@@ -16,7 +16,7 @@ The following Python script may be used to create the tables needed for the proj
 
 
 #### The following Python file may be used to create data:
-![Python Raw Data Script](https://github.com/RyansStacks/Emergency-Department-Tableau-Dashboard/blob/main/src/Data.py)
+![Python Raw Data Script](https://github.com/RyansStacks/Emergency-Department-Tableau-Dashboard/blob/main/src/Data.py `target="_blank"`)
 
 
 
