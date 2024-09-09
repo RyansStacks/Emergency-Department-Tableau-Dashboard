@@ -64,4 +64,4 @@ The final product is a Dashboard that staff and leadership may use to confirm tr
 
 A link to the Dashboard on Tableau Public may be found:
 
-![Tableau Public - See Dashboard](https://public.tableau.com/app/profile/ryan.breen8189/viz/AegisHealthcareEnterpriseEDDashboard/EDOperations?publish=yes)
+[Tableau Public - See Dashboard](https://public.tableau.com/app/profile/ryan.breen8189/viz/AegisHealthcareEnterpriseEDDashboard/EDOperations?publish=yes)
