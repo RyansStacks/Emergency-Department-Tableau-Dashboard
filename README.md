@@ -1,4 +1,4 @@
-[stock image](https://github.com/RyansStacks/Emergency-Department-Tableau-Dashboard/blob/main/img/stock.png)
+![stock image](https://github.com/RyansStacks/Emergency-Department-Tableau-Dashboard/blob/main/img/stock.png)
 
 # Aegis Healthcare Enterprise Dashboards
 
@@ -16,11 +16,11 @@ The following Python script may be used to create the tables needed for the proj
 
 
 #### The following Python file may be used to create data:
-![Python Raw Data Script](https://github.com/RyansStacks/Emergency-Department-Tableau-Dashboard/blob/main/src/Data.py `target="_blank"`)
+[Python Raw Data Script](https://github.com/RyansStacks/Emergency-Department-Tableau-Dashboard/blob/main/src/Data.py )
 
 
 
-[ER Diagram](https://github.com/RyansStacks/Emergency-Department-Tableau-Dashboard/blob/main/img/ED%20Data%20Model.png)
+![ER Diagram](https://github.com/RyansStacks/Emergency-Department-Tableau-Dashboard/blob/main/img/ED%20Data%20Model.png)
 
 
 ### Using Python Pandas to Create Data
@@ -33,14 +33,14 @@ All the .csv files are combined using Tableau relationships (very similar to SQL
 
 
 
-[Tableau Data Model](https://github.com/RyansStacks/Emergency-Department-Tableau-Dashboard/blob/main/img/Tableau%20Data%20Model.png)
+![Tableau Data Model](https://github.com/RyansStacks/Emergency-Department-Tableau-Dashboard/blob/main/img/Tableau%20Data%20Model.png)
 
 
 The final product is a Dashboard that staff and leadership may use to confirm trends. Below, we discuss some findings from the Tableau excerpt.
 
 
 
-[Tableau Dashboard](https://github.com/RyansStacks/Emergency-Department-Tableau-Dashboard/blob/main/img/ED%20Operations.png)
+![Tableau Dashboard](https://github.com/RyansStacks/Emergency-Department-Tableau-Dashboard/blob/main/img/ED%20Operations.png)
 
 
 ### Dashboard Summary
