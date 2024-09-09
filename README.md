@@ -31,7 +31,7 @@ D:\Projects\Aegis Healthcare Enterprise Dashboards\src\data.py
 
 All the .csv files are combined using Tableau relationships (very similar to SQL joins) with ED Visits serving as the Parent Table:
 
-<img src="attachment:https://github.com/RyansStacks/Emergency-Department-Tableau-Dashboard/blob/main/img/Tableau%20Data%20Model.png" width="1000"/>
+<img src= https://github.com/RyansStacks/Emergency-Department-Tableau-Dashboard/blob/main/img/Tableau%20Data%20Model.png width="1000"/>
 
 
 The final product is a Dashboard that staff and leadership may use to confirm trends. Below, we discuss some findings from the Tableau excerpt.
