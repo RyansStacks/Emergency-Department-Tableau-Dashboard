@@ -3,6 +3,17 @@
 # Aegis Healthcare Enterprise Dashboards
 
 ## Background
+A client has requested that an operational dashboard be created from data from 2022 to present. The dashboard will be used to monitor key metrics in the busy Emergency Department that the client wants to monitor. All the requirements and necessary metrics have been provided by the client and may be found in the dictionary created in response:
+
+[Project Data Dictionary](https://github.com/RyansStacks/Emergency-Department-Tableau-Dashboard/blob/main/metadata/Aegis%20Healthcare%20Enterprise%20Dashboards%20Dictionary.xlsx)
+
+The dashboard shold answer key business problems specific to the Emergency Department:
+1. Are specific populations vulnerable?
+2. Are wait times associated with any phenomena?
+3. Are there any referrals to other medical care from the Emergency Department with significant numbers?
+4. Is there any association between patient severity measured by the 'APACHE II Scoring metric' to other attributes?
+
+A follow-up will be performed by a data analyst to build models for each of the questions above if phenomena are noted in the Tableau dashboard. The dashboard will also serve to monitor events on-going to provide swift response by leadership.
 
 ## Data
 
