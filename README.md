@@ -23,18 +23,16 @@ Data for the project due to privacy issues involving healthcare data has been co
 
 The following Python script may be used to create the tables needed for the project. Note, one may easily upload into SQL using a GUI based platform such as SSMS that allows automatic table/column creation with .csv files.
 
-### Data Summary
-
-
 #### The following Python file may be used to create data:
 [Python Raw Data Script](https://github.com/RyansStacks/Emergency-Department-Tableau-Dashboard/blob/main/src/Data.py )
 
-
+#### ER Diagram
+The ER Diagram below shows all columns within each of the tables used in the creation of the dashboard. Linkage between Primary - Foreign Keys are given by arrows. Again, the tables may be easily uploaded to SQL Server using the GUI or scripting with SQL Server easily connected to Tableau via Tableau's SQL Server driver (simply login to SQL Server in Tableau).
 
 ![ER Diagram](https://github.com/RyansStacks/Emergency-Department-Tableau-Dashboard/blob/main/img/ED%20Data%20Model.png)
 
 
-### Using Python Pandas to Create Data
+#### Using Python Pandas to Create Data
 
 D:\Projects\Aegis Healthcare Enterprise Dashboards\src\data.py
 
